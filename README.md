@@ -6,6 +6,9 @@
 - 📫 How to reach me **mohamedabdalrasoul0@gmail.com**
 
 - ⚡ Fun fact **I enjoy teaching others what I’m learning — it helps me grow too!**
+  
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" alt="Description" width="300">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
