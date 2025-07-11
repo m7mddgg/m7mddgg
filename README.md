@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mohamed Abdalrasoul Ahmed</h1>
+<h1 align="center">Hi 👋, I'm Mohamed </h1>
 <h3 align="center">AI Student at BUA | Competitive Programming</h3>
 
-- 💬 Ask me about **c++ ,OOP, - Data Structures & Algorithms**
+- 💬 Ask me about **C++ ,OOP, - Data Structures & Algorithms**
 
 - 📫 How to reach me **mohamedabdalrasoul0@gmail.com**
 
