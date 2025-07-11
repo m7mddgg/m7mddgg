@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **I enjoy teaching others what I’m learning — it helps me grow too!**
   
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" alt="Description" width="300">
+<img src="https://private-user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTIyNjM1NTUsIm5iZiI6MTc1MjI2MzI1NSwicGF0aCI6Ii83NDAzODE5MC8yNjQxNDE2ODMtOGFhOTlmNmMtMjY3ZC00OTc3LTljZDMtMWE0YzExNjc1ODYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzExVDE5NDczNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY4MWYzNTllOWMxYmM1NTAxYjI5ZGYxZWFkMTUxMDNmNTYyOGI0MTc3NmE0Y2MyNGI5ZTk4Y2Y3MWM4OGFjYjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.rrU2klT9TQuFQiltHja4L7hvir1gg5zZW-iyDMp0wzo" alt="Description" width="300">
 
 
 <h3 align="left">Connect with me:</h3>
