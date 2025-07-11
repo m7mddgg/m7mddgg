@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@m7md3bd0a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@m7md3bd0a" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohamed abdalrasoul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed abdalrasoul" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/mohamedabdalrasoul00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mohamedabdalrasoul00" height="30" width="40" /></a>
 <a href="https://fb.com/محمد عبدالرسول" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="محمد عبدالرسول" height="30" width="40" /></a>
 <a href="https://instagram.com/_ma2____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ma2____" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/abdalrasoul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abdalrasoul" height="30" width="40" /></a>
